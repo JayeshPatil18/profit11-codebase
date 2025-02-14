@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "477151675027",
+    "project_id": "kakshak-ccezkm",
+    "storage_bucket": "kakshak-ccezkm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477151675027:android:ee94f7ce6a0bea5eb5c366",
+        "android_client_info": {
+          "package_name": "com.rakshak.nurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477151675027-ff549c867t0tti11dp2qjool4f33ee6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakshak.nurse",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoEV48vZEPsozPAwD5zYD2FPfJ0K4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477151675027-0l45sbt5lvgcqq2uljgu1nfpit9bv495.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakshak.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477151675027:android:c6c1b64c66f00129b5c366",
+        "android_client_info": {
+          "package_name": "com.rakshak.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477151675027-7gpql562irdehq0d0dd21ejpnsbsviu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakshak.user",
+            "certificate_hash": "20d2c7907291f372264ad86bad2feeffb950bf2d"
+          }
+        },
+        {
+          "client_id": "477151675027-sjgpbb59ltd508u7aoon8lu9e5mqcehe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rakshak.user",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoEV48vZEPsozPAwD5zYD2FPfJ0K4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477151675027-0l45sbt5lvgcqq2uljgu1nfpit9bv495.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakshak.user"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477151675027:android:cbbef4c2065a3b8db5c366",
+        "android_client_info": {
+          "package_name": "com.safety.rakshaknurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477151675027-ev80oi7uhuuf33btqq67tp5g567v6nui.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safety.rakshaknurse",
+            "certificate_hash": "20d2c7907291f372264ad86bad2feeffb950bf2d"
+          }
+        },
+        {
+          "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYoEV48vZEPsozPAwD5zYD2FPfJ0K4TNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477151675027-uif2uo6bgdka8fatjokgohgsrnm9pf7q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "477151675027-0l45sbt5lvgcqq2uljgu1nfpit9bv495.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rakshak.user"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
