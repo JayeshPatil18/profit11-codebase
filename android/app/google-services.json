@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "811521787553",
+    "firebase_url": "https://profit11-app-default-rtdb.firebaseio.com",
+    "project_id": "profit11-app",
+    "storage_bucket": "profit11-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811521787553:android:b84b6017bc575797b452e0",
+        "android_client_info": {
+          "package_name": "com.fantasy.profit11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQLoNZTQy4hz-b35z-l7GL_WS-RoNJlUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
