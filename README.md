@@ -1,4 +1,6 @@
-# Profit11
+# Profit11 - Fantasy Trading Application
+
+![Profit11](https://github.com/JayeshPatil18/profit11-codebase/blob/main/profit11.png)
 
 **Profit11** is a fantasy stock market platform that allows users to create virtual portfolios, participate in contests, and compete based on stock price fluctuations in real time. The app offers an engaging experience similar to fantasy sports but applied to the stock market.
 
